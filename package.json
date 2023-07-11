@@ -1,0 +1,14 @@
+{
+  "name": "startbootstrap-site",
+  "version": "1.0.0",
+  "description": "responsive site made with bootstrap",
+  "main": "./src/scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taha afshari",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0"
+  }
+}
